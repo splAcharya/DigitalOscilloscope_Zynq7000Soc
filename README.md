@@ -6,7 +6,11 @@ FPGA IDE: Xilinx Vivado
 GUI IDE: Visual Studio Community 2017
 
 
-Block Diagram and GUI
+Block Diagram
+
 ![alt text](https://github.com/splAcharya/DigitalOscilloscope_Zynq7000Soc/blob/master/Hardware_Design.jpg)
+
+
+Graphical User Interface(GUI)
 
 ![alt text](https://github.com/splAcharya/DigitalOscilloscope_Zynq7000Soc/blob/master/Oscilloscope_Interface.jpg)
